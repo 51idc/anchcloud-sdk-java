@@ -12,7 +12,22 @@
     <description>
         Anchnet Cloud API SDK FOR JAVA
     </description>
-    <url>https://github.com/SequoiaDB/SequoiaDB</url>
+    <url>https://github.com/51idc/anchcloud-sdk-java</url>
+
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>anchnet</name>
+            <organization>anchnet</organization>
+            <organizationUrl>http://www.51idc.com/</organizationUrl>
+        </developer>
+    </developers>
 
     <dependencies>
 

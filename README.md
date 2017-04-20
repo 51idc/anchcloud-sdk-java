@@ -1,2 +1,2 @@
 # anchcloud-sdk-java
-Anchcloud SDK for PHP
+Anchcloud SDK for JAVA
